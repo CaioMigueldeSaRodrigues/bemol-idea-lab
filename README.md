@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# MKTP Bemol Micro SaaS
 
 ## Project info
 
